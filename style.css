@@ -11,7 +11,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #f6f7fb;
+/*   background: #f6f7fb; */
+   background-image: linear-gradient(rgba(0,8,51,0.7),rgba(0,8,51,0.7)),url(images/R_P_S.jpeg);
 }
 ::selection {
   color: #fff;
