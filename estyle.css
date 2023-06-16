@@ -1,0 +1,32 @@
+body{
+    /* background: url(images/R_P_S.jpeg);  */
+    background-image: linear-gradient(rgba(0,8,51,0.7),rgba(0,8,51,0.7)),url(images/R_P_S.jpeg);
+}
+
+.note {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.note h1 {
+    font-size: 500%;
+    color: rgb(218, 208, 20);
+    font-style: italic;
+}
+
+.note button{
+    margin: 100px;
+    border-radius: 20%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+    box-shadow:0 8px 16px 0 rgba(223, 33, 16, 0.7), 0 6px 20px 0 rgba(70,70,199,0.7);;
+    transition-duration: 0.4s;
+
+}
